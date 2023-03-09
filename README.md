@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un  repositorio de prueba del modulo2 de PrepCourse Henry
+prueba de como crear repositorio y clonar desde github a mipc  local
